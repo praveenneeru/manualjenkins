@@ -6,6 +6,7 @@
 
   <groupId>practice</groupId>
   <artifactId>praveen</artifactId>
+  <packaging>war<packaging>
   <version>2.0</version>
 
   <name>praveen</name>
@@ -28,7 +29,6 @@
   </dependencies>
 
   <build>
-  <packaging>war<packaging>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <!-- clean lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
