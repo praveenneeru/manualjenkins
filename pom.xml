@@ -6,7 +6,6 @@
 
   <groupId>practice</groupId>
   <artifactId>praveen</artifactId>
-  <packaging>war<packaging>
   <version>2.0</version>
 
   <name>praveen</name>
